@@ -10,3 +10,5 @@ We reimplement and apply the method to ECG signal that we noise ourselves (as in
 All of our results are explained and detailed in the report also available in the repository.
 
 - ECG-noising-denoising.ipynb contains all the main results. It is directly "runnable".
+
+Feel free to reach out to us at meilame.tayebjee@polytechnique.edu / max.kramkimel@gmail.com for any questions or recommendations.
